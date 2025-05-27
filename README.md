@@ -7,7 +7,7 @@ A simple calendar app built with React that supports drag-and-drop functionality
  🔧 Setup Instructions
 
 1. Clone the repository
-git clone https://github.com/Nikitha-200/Calendar-flam-task-3-.git
+git clone    https://github.com/Nikitha-200/Calendar-flam-task-3-.git
 cd calendar-app
 2. npm install
 3. npm run dev
