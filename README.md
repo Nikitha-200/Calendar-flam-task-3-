@@ -37,7 +37,6 @@ src/
 └── main.jsx
 
 
-![image](https://github.com/user-attachments/assets/07ee7ea6-e7c9-499a-b76a-e4090bd17f47)
 
 ![sample_view](https://github.com/user-attachments/assets/9624f003-899f-4c40-9e50-5bba929131cc)
 
